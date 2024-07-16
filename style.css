@@ -1,0 +1,17 @@
+body {
+  background-image: url(/images/bg-image.png);
+  background-size: cover;
+  align-items: center;
+  background-color: #573824;
+  
+}
+
+#page {
+  width: 800px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 48px auto;
+  box-sizing: border-box;
+
+}
